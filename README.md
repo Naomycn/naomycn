@@ -2,8 +2,11 @@
 
 <!--uso CICLO FOR
 **Naomycn/naomycn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+cLICLO  WHILE
+CICLO DO-WHILE
+VECTOR
+MATRIZ
+Here are some ideas to get you starte
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
